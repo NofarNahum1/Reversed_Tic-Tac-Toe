@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "h.w5_csharp/1.0.0": {
+        "runtime": {
+          "h.w5_csharp.dll": {}
+        },
+        "resources": {
+          "en-BW/h.w5_csharp.resources.dll": {
+            "locale": "en-BW"
+          },
+          "en-US/h.w5_csharp.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "h.w5_csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

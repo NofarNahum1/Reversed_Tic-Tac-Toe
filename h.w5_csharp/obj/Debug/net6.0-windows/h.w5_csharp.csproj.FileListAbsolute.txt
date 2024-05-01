@@ -1,0 +1,68 @@
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.csproj.AssemblyReference.cache
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.FormLogin.resources
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.csproj.GenerateResource.cache
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.AssemblyInfoInputs.cache
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.AssemblyInfo.cs
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.csproj.CoreCompileInputs.cache
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.exe
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.deps.json
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.runtimeconfig.json
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.dll
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.pdb
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.dll
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\refint\h.w5_csharp.dll
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.pdb
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.genruntimeconfig.cache
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\ref\h.w5_csharp.dll
+C:\Users\97254\Desktop\h.w5_csharp\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.LogicGame.resources
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.exe
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.deps.json
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.runtimeconfig.json
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.dll
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.pdb
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.csproj.AssemblyReference.cache
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.FormLogin.resources
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.LogicGame.resources
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.csproj.GenerateResource.cache
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.AssemblyInfoInputs.cache
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.AssemblyInfo.cs
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.dll
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\refint\h.w5_csharp.dll
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.pdb
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.genruntimeconfig.cache
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\ref\h.w5_csharp.dll
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.Properties.Resources.resources
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\bin\Debug\net6.0-windows\en-US\h.w5_csharp.resources.dll
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.LogicGame.en-US.resources
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\en-US\h.w5_csharp.resources.dll
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\bin\Debug\net6.0-windows\en-BW\h.w5_csharp.resources.dll
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.LogicGame.en-BW.resources
+C:\Users\Nofar\2023semB\#C\h.w5_csharp\h.w5_csharp\obj\Debug\net6.0-windows\en-BW\h.w5_csharp.resources.dll
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.exe
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.deps.json
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.runtimeconfig.json
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.dll
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\bin\Debug\net6.0-windows\h.w5_csharp.pdb
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\bin\Debug\net6.0-windows\en-BW\h.w5_csharp.resources.dll
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\bin\Debug\net6.0-windows\en-US\h.w5_csharp.resources.dll
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.csproj.AssemblyReference.cache
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.FormLogin.resources
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.LogicGame.resources
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.Properties.Resources.resources
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.LogicGame.en-BW.resources
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.LogicGame.en-US.resources
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.csproj.GenerateResource.cache
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.AssemblyInfoInputs.cache
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.AssemblyInfo.cs
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\en-BW\h.w5_csharp.resources.dll
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\en-US\h.w5_csharp.resources.dll
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.dll
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\refint\h.w5_csharp.dll
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.pdb
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\h.w5_csharp.genruntimeconfig.cache
+C:\Users\Nofar\2023semB\#C\B23 Ex05 EladOzer 207196767 NofarNahum 316458009\h.w5_csharp\obj\Debug\net6.0-windows\ref\h.w5_csharp.dll
